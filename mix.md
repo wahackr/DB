@@ -7,7 +7,7 @@
 | 3    | Philippine Dragon Boat Federation (PDBF Elite)                       | 2:04.881           |
 | 4    | 青峰龍 (Ching Fung Dragon)                                           | 2:10.209           |
 | 5    | 中國澳門代表隊 (Macao, China Selection Team)                          | 2:10.752           |
-| 6    | Bentleys International                                               |  disclaim2:12.029           |
+| 6    | Bentleys International                                               |  2:12.029           |
 | 7    | 中大龍菁生隊 - 餓龍 (Hungers)                                         | 2:12.590           |
 | 8    | University of the Philippines Dragonboat Team                        | 2:12.751           |
 | 9    | Royal Hong Kong Yacht Club                                           | 2:13.071           |
